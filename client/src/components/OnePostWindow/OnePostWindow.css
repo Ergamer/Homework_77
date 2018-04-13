@@ -1,0 +1,23 @@
+.OnePostWindow{
+    width: 80%;
+    border: 1px solid black;
+    border-radius: 5px;
+    margin: 0 auto;
+    margin-top: 10px;
+    overflow: hidden;
+}
+.OnePostWindow h2{
+    margin: 0;
+    display: inline-block;
+    float: left;
+}
+.OnePostWindow p{
+    margin: 0;
+    display: inline-block;
+    float: left;
+}
+.OnePostWindow img{
+    width: 30%;
+    height: 200px;
+    float: right;
+}
